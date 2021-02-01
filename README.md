@@ -1,0 +1,2 @@
+# Empire-Glory
+ResourcePack
